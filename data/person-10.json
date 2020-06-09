@@ -1,0 +1,49 @@
+{
+  "name": "Obi-Wan Kenobi",
+  "vehicles": [
+    {
+      "name": "Tribubble bongo",
+      "max_atmosphering_speed": "85",
+      "crew": 1,
+      "passengers": 2,
+      "cargo_capacity": "1600"
+    }
+  ],
+  "starships": [
+    {
+      "name": "Jedi starfighter",
+      "max_atmosphering_speed": "1150",
+      "crew": 1,
+      "passengers": 0,
+      "cargo_capacity": "60"
+    },
+    {
+      "name": "Trade Federation cruiser",
+      "max_atmosphering_speed": "1050",
+      "crew": 600,
+      "passengers": 48247,
+      "cargo_capacity": "50000000"
+    },
+    {
+      "name": "Naboo star skiff",
+      "max_atmosphering_speed": "1050",
+      "crew": 3,
+      "passengers": 3,
+      "cargo_capacity": null
+    },
+    {
+      "name": "Jedi Interceptor",
+      "max_atmosphering_speed": "1500",
+      "crew": 1,
+      "passengers": 0,
+      "cargo_capacity": "60"
+    },
+    {
+      "name": "Belbullab-22 starfighter",
+      "max_atmosphering_speed": "1100",
+      "crew": 1,
+      "passengers": 0,
+      "cargo_capacity": "140"
+    }
+  ]
+}

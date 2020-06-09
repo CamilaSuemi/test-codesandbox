@@ -1,0 +1,35 @@
+{
+  "name": "Luke Skywalker",
+  "vehicles": [
+    {
+      "name": "Snowspeeder",
+      "max_atmosphering_speed": "650",
+      "crew": 2,
+      "passengers": 0,
+      "cargo_capacity": "10"
+    },
+    {
+      "name": "Imperial Speeder Bike",
+      "max_atmosphering_speed": "360",
+      "crew": 1,
+      "passengers": 1,
+      "cargo_capacity": "4"
+    }
+  ],
+  "starships": [
+    {
+      "name": "X-wing",
+      "max_atmosphering_speed": "1050",
+      "crew": 1,
+      "passengers": 0,
+      "cargo_capacity": "110"
+    },
+    {
+      "name": "Imperial shuttle",
+      "max_atmosphering_speed": "850",
+      "crew": 6,
+      "passengers": 20,
+      "cargo_capacity": "80000"
+    }
+  ]
+}
